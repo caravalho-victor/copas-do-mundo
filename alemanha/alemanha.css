@@ -1,0 +1,48 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+p{
+    text-indent: 10px;
+    text-align: center;
+    line-height: 22px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img{
+    border-radius: 10px;
+    height: 344px;
+}
+
+h1{
+    color: white;
+    background-color: black;
+}
+
+h2{
+    color: white;
+    background-color: black;
+    font-size: 2em;
+}
+
+h3{
+    font-size: 2em;
+    color: white;
+    background-image: url(fundo1990.png);
+    text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;
+}
+
+h4{
+    font-size: 2em;
+    color: white;
+    background-image: url(fundo2014.png);
+    text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: white;
+  color: white;
+}

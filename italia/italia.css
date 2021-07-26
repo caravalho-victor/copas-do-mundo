@@ -1,0 +1,48 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+p{
+  text-indent: 10px;
+  text-align: center;
+  line-height: 22px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+img{
+  border-radius: 10px;
+}
+
+h1{
+  background-color: rgb(26, 26, 26);
+  color: white;
+}
+ 
+h2{
+  font-size: 2em;
+  background-color: rgb(26, 26, 26);
+  color: white;
+}
+
+h3{
+  font-size: 2em;
+  background-color: #344dab;
+  color: white;
+}
+
+h4{
+  font-size: 2em;
+  background-color: #3050a7;
+  color: #89926c;
+}
+
+#ds{
+  height: 350px;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: white;
+  color: white;
+}

@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  background-color: #da3447;
+  color: #484868;
+  text-shadow: 1px 1px 1px white, -1px 1px 1px white, 1px -1px 1px white, -1px -1px 1px white;
+}
+
+p{
+    text-indent: 10px;
+    text-align: center;
+    line-height: 22px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img{
+  border-radius: 10px;
+  height: 290px;
+}
+
+#gol{
+  height: 344px;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: white;
+  color: white;
+}

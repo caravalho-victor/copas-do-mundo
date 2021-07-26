@@ -1,0 +1,65 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+p{
+    text-indent: 10px;
+    text-align: center;
+    line-height: 22px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h1{
+    background-color: #355586;
+    color: white;
+}
+
+h2{
+    font-size: 2em;
+    background-color: #ecd048;
+    color: #4e7e4d;
+}
+
+h3{
+    font-size: 2em;
+    background-color: #ecd048;
+    color: #4e7e4d;
+}
+
+h4{
+    font-size: 2em;
+    background-color: #dcba2c;
+    color:#016d46;
+}
+
+#nq{
+    height: 344px;
+}
+
+h5{
+    font-size: 2em;
+    background-color: #e9e76e;
+    color: #4d873b;
+
+}
+
+#dd{
+    height: 344px;
+
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: white;
+  color: white;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');

@@ -1,0 +1,38 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+p{
+    text-indent: 10px;
+    text-align: center;
+    line-height: 22px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+img{
+    border-radius: 10px;
+    height: 344px;
+}
+
+h1{
+    background-color: #7082be;
+    color: whitesmoke; 
+}
+
+#os{
+    border-radius: 10px;
+    height: 250px;
+}
+
+h2{
+    font-size: 2em;
+    color:whitesmoke;
+    background-color: #3480cc;
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: white;
+  color: white;
+}
